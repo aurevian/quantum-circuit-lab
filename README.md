@@ -239,17 +239,6 @@ Current test coverage: **27 tests** across normalization, gate correctness, Bell
 
 ---
 
-## Background
-
-This project grew from research in **quantum spiking neural networks (QSNNs)** and **variational quantum circuits (VQCs)** at Loughborough University. The gate scale encoding (θ = α × x_i × π) directly mirrors the data encoding strategy used in quantum machine learning pipelines, making the tool useful both as a teaching aid and as a prototyping environment for QML architectures.
-
----
-
-## License
-
-MIT — see [LICENSE](LICENSE).
-
----
 
 ## Citation
 
